@@ -1,0 +1,3 @@
+let componente_footer = `
+    
+`
